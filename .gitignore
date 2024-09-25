@@ -1,0 +1,12 @@
+# Ignore bin folder (compiled Java files)
+bin/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore compiled class files
+*.class
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
