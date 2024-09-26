@@ -28,11 +28,12 @@ public class Game {
         String hand = getHand();
         double stack = getStack();
         player.update(position, hand, stack);
-        System.out.println("Position: " + player.getPosition());
-        System.out.println("Hand: " + player.getHand());
-        System.out.println("Stack: " + player.getStack());
         String action = player.action();
+        System.out.println();
+        System.out.println("-----------------------------");
         System.out.println("Recommended action: " + action);
+        System.out.println("-----------------------------");
+        System.out.println();
     }
 
     private String getPosition() {

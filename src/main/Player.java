@@ -38,7 +38,6 @@ public class Player {
         int[] handIndex = util.getHandIndex(hand, tables.getChart());
         int[][] table;
         int val;
-        System.out.println("hand index: " + handIndex[0] + ", " + handIndex[1]);
         switch (position) {
             case ("SB") -> { 
                 if (stack <= 10.0 && stack > 7.0) {
