@@ -15,8 +15,6 @@ public class Game {
     }
 
     public void start() {
-        System.out.println("System starting...");
-
         while (true) { 
             play();
             if (end()) break;
