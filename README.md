@@ -39,3 +39,8 @@ Recommended action: FOLD!
 
 Terminate? (Y/N) y
 ```
+## Data Source
+The predefined strategy tables used in this project are based on the Spin-N-Go strategy guidelines provided by [PokerStrategy.com](https://www.pokerstrategy.com/strategy/sit-and-go/spin-n-go-facts-strategy/). These tables inform the decision-making logic implemented in the game, helping players understand optimal plays based on position, stack size, and hand.
+
+### Disclaimer
+This project is for educational purposes only and aims to simulate poker strategies based on publicly available resources. The strategies are sourced from PokerStrategy.com, and this project does not claim ownership of the strategy content. For more detailed explanations, professional poker advice, and bankroll-management, please visit [PokerStrategy.com](https://www.pokerstrategy.com/strategy/sit-and-go/spin-n-go-facts-strategy/).
