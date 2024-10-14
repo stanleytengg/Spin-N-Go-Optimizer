@@ -1,4 +1,5 @@
 # The Spin & Go Optimizer: A 3-Player SNG Tournament Pre-Flop Strategy
+## Overview
 This Spin-N-Go Strategy Optimizer is a Java-based command-line tool designed to help poker players make strategic decisions based on their position, hand, and stack size in Spin-N-Go poker games. The program provides recommended actions, such as pushing, folding, or raising, based on pre-defined tables for various game scenarios.
 
 ## Setup and Installation
